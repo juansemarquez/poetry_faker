@@ -9,4 +9,4 @@ Alguien dirá que la lluvia tiene su encanto; pero seguro es alguien que no sab�
 
 Viste cómo es esto, que un sistema con tanta maldad, contagia. Y entonces abrí el editor, y escribí una función en Python; que reemplaza: cada signo de puntuación, por un salto de línea. Y vos empezaste a leer esto, que es una prosa cualquiera, que cuenta una situación cotidiana, sin valor literario. Pero como tiene saltos de línea, y le falta la puntuación, tu espíritu se predispuso a leer un poema. Que no está ahí, ni en ninguna parte. Porque sos víctima de un programador, que un domingo quiso ser, él también, el gato maula de alguien.
 
-Y que en su ira pequeñoburguesa, subió el código a la Web, para que tu decepción sea completa, por estar leyendo un poema que termina con una URL:
+Y que en su ira pequeñoburguesa, subió el código a la Web, para que tu decepción sea completa, por estar leyendo un poema que termina con una URL: https://github.com/juansemarquez/poetry_faker
