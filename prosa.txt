@@ -1,0 +1,12 @@
+Esta mañana me levanté, y llovía. Inesperadamente llovía. No supe qué hacer; porque tenía planes, que involucraban estar al aire libre; no te aburriré con detalles.
+
+Me había dejado el desayuno listo, el termo con agua y sobre la mesa, la yerba adentro del mate chiquito, para tomar dos o tres; antes de arrancar apurado.
+ Todo absurdamente preparado, para una misión ya cancelada.
+
+Seguramente el lunes, habrá sol; pero yo tendré que trabajar, y el impedimento será el capitalismo y no el clima. Da lo mismo. Era hoy. Cualquier postergación implica un deterioro del disfrute planeado. Ya no será.
+
+Alguien dirá que la lluvia tiene su encanto; pero seguro es alguien que no sabía de mis planes. Toda la semana sentado en la computadora, jugando el papel de mísero ratón, para los gatos maulas del siglo XXI. Y unas nubes socarronas, que vienen a inundar un miserable vestigio de libertad, que pensaba aprovechar.
+
+Viste cómo es esto, que un sistema con tanta maldad, contagia. Y entonces abrí el editor, y escribí una función en Python; que reemplaza: cada signo de puntuación, por un salto de línea. Y vos empezaste a leer esto, que es una prosa cualquiera, que cuenta una situación cotidiana, sin valor literario. Pero como tiene saltos de línea, y le falta la puntuación, tu espíritu se predispuso a leer un poema. Que no está ahí, ni en ninguna parte. Porque sos víctima de un programador, que un domingo quiso ser, él también, el gato maula de alguien.
+
+Y que en su ira pequeñoburguesa, subió el código a la Web, para que tu decepción sea completa, por estar leyendo un poema que termina con una URL:
