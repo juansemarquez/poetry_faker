@@ -48,17 +48,12 @@ sin valor literario
 Pero como tiene saltos de línea
 y le falta la puntuación
 tu espíritu se predispuso a leer un poema
-Que no está ahí
+Pero esto es una estafa de prosa y algoritmo
+¿Buscabas versitos?
+No están acá
 ni en ninguna parte
 Porque sos víctima de un programador
 que un domingo quiso ser
 él también
 el gato maula de alguien
-
-Y que en su ira pequeñoburguesa
-subió el código a la Web
-para que tu decepción sea completa
-por estar leyendo un poema que termina con una URL
-dos puntos
-https://github.com/juansemarquez/poetry_faker
 

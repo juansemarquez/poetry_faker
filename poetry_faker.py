@@ -4,7 +4,8 @@ class PoetryFaker:
         self.breakline = breakline
         self.prepend = prepend
         self.language = language
-        self.text = text
+        with open(text, 'r') as content_file:
+            self.text = content_file.read()
 
     def verse_maker(self):
         print(self.eliminate_punctuation())
